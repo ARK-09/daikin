@@ -1,0 +1,1 @@
+import"./core.6ka6CXVv.js";const t=document.querySelector(".video-container .play-button");t.addEventListener("click",()=>{t.style.display="none";const e=document.createElement("script");e.type="module",e.src="https://cdn.jsdelivr.net/npm/player.style/sutro/+esm",document.body.appendChild(e)});
